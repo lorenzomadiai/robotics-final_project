@@ -1,7 +1,7 @@
 # Radiators — Autonomous Maze Solver Robot
 
 Final robotics project focused on autonomous maze solving, robot simulation, and neural-network-based anomaly detection.  
-The project combines intelligent navigation algorithms, robotics simulation, and AI techniques to develop an autonomous robot capable of navigating and reasoning in maze environments. :contentReference[oaicite:0]{index=0}
+The project combines intelligent navigation algorithms, robotics simulation, and AI techniques to develop an autonomous robot capable of navigating and reasoning in maze environments.
 
 ## Team
 
